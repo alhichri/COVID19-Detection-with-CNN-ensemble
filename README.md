@@ -5,5 +5,5 @@ Abstract: In January 2020, the World Health Organization declared a global healt
 
 
 
-H. Alhichri and . , "CNN ensemble approach to detect covid-19 from computed tomography chest images," Computers, Materials & Continua, vol. 67, no.3, pp. 3581–3599, 2021.
+H. Alhichri, "CNN ensemble approach to detect covid-19 from computed tomography chest images," Computers, Materials & Continua, vol. 67, no.3, pp. 3581–3599, 2021.
 https://doi.org/10.32604/cmc.2021.015399
