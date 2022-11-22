@@ -5,15 +5,5 @@ Abstract: In January 2020, the World Health Organization declared a global healt
 
 
 
-@Article{cmc.2021.015399,
-AUTHOR = {Haikel Alhichri},
-TITLE = {CNN Ensemble Approach to Detect COVID-19 from Computed Tomography Chest Images},
-JOURNAL = {Computers, Materials \& Continua},
-VOLUME = {67},
-YEAR = {2021},
-NUMBER = {3},
-PAGES = {3581--3599},
-URL = {http://www.techscience.com/cmc/v67n3/41618},
-ISSN = {1546-2226},
-DOI = {10.32604/cmc.2021.015399}
-}
+H. Alhichri and . , "CNN ensemble approach to detect covid-19 from computed tomography chest images," Computers, Materials & Continua, vol. 67, no.3, pp. 3581–3599, 2021.
+https://doi.org/10.32604/cmc.2021.015399
